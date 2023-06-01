@@ -1,13 +1,14 @@
 <h1 align="center">✨ Greetings, <i>Traveller</i>. Have a seat by. 🔥</h1>
 
-<div style="background-image: url('https://raw.githubusercontent.com/Myp3a/Myp3a/master/el.svg'); background-size: 50px; background-repeat: no-repeat; background-position: top right">
+<div>
     <img width="47%" align="left" src="https://raw.githubusercontent.com/Myp3a/Myp3a/master/f.png">
     <div>
 
- - <h2>A bit about me:</h2>
+ - <span style="font-size: 32px">A bit about me:</span>
+<img width="32px" src="https://raw.githubusercontent.com/Myp3a/Myp3a/master/el.svg">
  
 
-</div>
+    </div>
 
 ```Py
 class Myp3a:
