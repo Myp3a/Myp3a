@@ -1,6 +1,6 @@
 <h1 align="center">✨ Greetings, <i>Traveller</i>. Have a seat by. 🔥</h1>
 
-<img height="430px" align="left" src="f.png"></img>  
+<img height="415px" align="left" src="f.png"></img>  
 
 
  - ## A bit about me:
