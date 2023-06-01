@@ -32,7 +32,7 @@ class Myp3a:
 </div>
 
 ## Currently working on:
-- ### **[Genshin Configurator](https://github.com/Myp3a/GenshinConfigurator)**
+### **[Genshin Configurator](https://github.com/Myp3a/GenshinConfigurator)**
 <img src="https://raw.githubusercontent.com/Myp3a/GenshinConfigurator/master/pmngear.ico" align="right" width="128" height="128">
 
     A tool to allow you to edit game settings outside of it.
@@ -46,7 +46,7 @@ class Myp3a:
      - People that like their own input scheme
      - Any tinkerers who like to disassembly things :P
 
-- ### **[nvoclock](https://github.com/Myp3a/nvoclock)**
+### **[nvoclock](https://github.com/Myp3a/nvoclock)**
 <img src="pyr.svg" align="right" width="128" height="128">
 
     CLI overclocking tool for Nvidia videocards
