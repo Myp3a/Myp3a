@@ -1,9 +1,9 @@
 <h1 align="center">✨ Greetings, <i>Traveller</i>. Have a seat by. 🔥</h1>
 
-<img height="448px" align="left" src="f.png"></img>  
+<img height="430px" align="left" src="f.png"></img>  
 
 
- - <span style="font-size: 32px">A bit about me:</span>
+ - ## A bit about me:
  
 ```Py
 class Myp3a:
