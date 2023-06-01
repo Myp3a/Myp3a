@@ -53,3 +53,23 @@ class Myp3a:
      - Fully automated VF curve tuning
      - Save / load curve presets
      - Other videocard management features
+
+### **[Tasya](https://github.com/Myp3a/Tasya)**
+<img src="t.png" align="right" width="128">
+
+    All-in-one messenger bot with different features
+
+    Current ones:
+     - Music playback: files and links
+     - Game announcing, to gather people to play
+     - Man-of-the-day election
+     - Neural-powered talks
+
+    Historic:
+     - Timetable and homework
+     - USE (ЕГЭ) results checking
+     - Meme creation
+     - Image edits
+     - Voice effects
+     - Voice messages transcription
+     - Notifications and reminders
