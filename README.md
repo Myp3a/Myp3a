@@ -5,7 +5,6 @@
     <div>
 
  - <span style="font-size: 32px">A bit about me:</span>
-<img width="32px" src="https://raw.githubusercontent.com/Myp3a/Myp3a/master/el.svg">
  
 </div>
 
