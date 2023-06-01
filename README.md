@@ -30,3 +30,18 @@ class Myp3a:
     <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Myp3a&show_icons=true&theme=dracula&hide_rank=true">
     <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myp3a&layout=compact&theme=dracula">
 </div>
+
+## Currently working on:
+- ### **[Genshin Configurator](https://github.com/Myp3a/GenshinConfigurator)**
+<img src="https://raw.githubusercontent.com/Myp3a/GenshinConfigurator/master/pmngear.ico" align="right" alt="Paimon gear logo" width="128" height="128">
+
+    A tool to allow you to edit game settings outside of it.
+     - Graphics settings customization
+     - Controls fine-tuning
+     - Ability to load game with preset config
+     - Raw config editor
+
+    Useful for:
+     - Laptop users - change graphics depending on power source
+     - People that like their own input scheme
+     - Any tinkerers who like to disassembly things :P
