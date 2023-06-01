@@ -1,6 +1,6 @@
 <h1 align="center">✨ Greetings, <i>Traveller</i>. Have a seat by. 🔥</h1>
 
-<img height="410px" align="left" src="f.png"></img>  
+<img style="max-height:410px" align="left" src="f.png"></img>  
 
 
  - ## A bit about me:
@@ -27,6 +27,6 @@ class Myp3a:
 ```
 
 <div>
-    <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api?username=Myp3a&show_icons=true&theme=dracula&hide_rank=true">
-    <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myp3a&layout=compact&theme=dracula">
+    <img style="max-width:300px" align="left" src="https://github-readme-stats.vercel.app/api?username=Myp3a&show_icons=true&theme=dracula&hide_rank=true&card_width=300px">
+    <img style="max-width:300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Myp3a&layout=compact&theme=dracula&card_width=300px">
 </div>
