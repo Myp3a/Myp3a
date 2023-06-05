@@ -7,9 +7,9 @@
  
 ```Py
 class Myp3a:
-	user = 'Konstantin Shkel'
-   	current_task = 'University degree'
-   	hobbies = [
+    user = 'Konstantin Shkel'
+    current_task = 'University degree'
+    hobbies = [
         'Writing code',
         'Playing videogames',
         'Drawing'
