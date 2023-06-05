@@ -16,10 +16,10 @@ class Myp3a:
         'Being up all Night chasing that ONE BUG...'
     ]
    
-   def getCity():
-    return Dubna()
+    def getCity():
+   	return Dubna()
    
-   def Ambitions():
+    def ambitions():
    	CreateAIGirlfriend()
    	BecomeDigitalArtist()
    	LearnGerman()
