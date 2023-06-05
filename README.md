@@ -53,11 +53,19 @@ class Myp3a:
      - Fully automated VF curve tuning
      - Save / load curve presets
      - Other videocard management features
+     
+### **[wyvern](https://github.com/Myp3a/wyvern)**
+<img src="cr.svg" align="right" width="128" height="128">
+
+    CLI recreation of MSI Center and msi-ec
+     - Fan curve setting
+     - CoolerBoost toggle
+     - More soon...
 
 ### **[Tasya](https://github.com/Myp3a/Tasya)**
 <img src="t.png" align="right" width="128">
 
-    All-in-one messenger bot with different features
+    All-in-one messenger bot with various features
 
     Current ones:
      - Music playback: files and links
