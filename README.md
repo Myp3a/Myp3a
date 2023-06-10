@@ -60,7 +60,8 @@ class Myp3a:
     CLI recreation of MSI Center and msi-ec
      - Fan curve setting
      - CoolerBoost toggle
-     - More soon...
+     - System performance mode selection
+     - Misc features
 
 ### **[Tasya](https://github.com/Myp3a/Tasya)**
 <img src="t.png" align="right" width="128">
