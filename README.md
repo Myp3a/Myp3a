@@ -63,7 +63,7 @@ class Myp3a:
      - System performance mode selection
      - Misc features
 
-### **[Tasya](https://github.com/Myp3a/Tasya)**
+### **Tasya**
 <img src="t.png" align="right" width="128">
 
     All-in-one messenger bot with various features
