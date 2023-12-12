@@ -63,7 +63,7 @@ class Myp3a:
      - System performance mode selection
      - Misc features
 
-### **Tasya**
+### **[Tasya](https://github.com/Myp3a/Tasya)**
 <img src="t.png" align="right" width="128">
 
     All-in-one messenger bot with various features
@@ -73,6 +73,7 @@ class Myp3a:
      - Game announcing, to gather people to play
      - Man-of-the-day election
      - Neural-powered talks
+     - Voice messages transcription
 
     Historic:
      - Timetable and homework
@@ -80,5 +81,14 @@ class Myp3a:
      - Meme creation
      - Image edits
      - Voice effects
-     - Voice messages transcription
      - Notifications and reminders
+
+### **[todo-list](https://github.com/Myp3a/todo-list)**
+<img src="cm.png" align="right" width="128">
+
+    Todo-list site built with Django and Bootstrap
+     - Creation, marking as done and deleting tasks
+     - Multi-user authentication
+     - Ability to upload image to task information
+     - Due to timers
+    
