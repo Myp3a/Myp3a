@@ -16,7 +16,7 @@ class Myp3a:
         'Being up all Night chasing that ONE BUG...'
     ]
    
-    def getCity():
+    def get_city():
    	return Dubna()
    
     def ambitions():
@@ -46,6 +46,20 @@ class Myp3a:
      - People that like their own input scheme
      - Any tinkerers who like to disassembly things :P
 
+### **[Apple Music API](https://github.com/Myp3a/apple-music-api)**
+
+    Wrapper for Apple Music API
+     - Catalog search
+     - Library management
+     - Audio downloads
+
+### **[mixxer](https://github.com/Myp3a/mixxer)**
+
+    CLI tool to synchronize media libraries between
+     - Apple Music
+     - Yandex Music
+     - Spotify
+
 ### **[nvoclock](https://github.com/Myp3a/nvoclock)**
 <img src="pyr.svg" align="right" width="128" height="128">
 
@@ -62,6 +76,13 @@ class Myp3a:
      - CoolerBoost toggle
      - System performance mode selection
      - Misc features
+
+### **[Smart Touchpad](https://github.com/Myp3a/SmartTouchpad)**
+<img src="tp.png" align="right" width="128" height="128">
+
+    Tool to control MSI Raider GE78HX touchpad
+     - Optimized driver
+     - Custom shortcuts or keybindings
 
 ### **[Tasya](https://github.com/Myp3a/Tasya)**
 <img src="t.png" align="right" width="128">
@@ -83,12 +104,4 @@ class Myp3a:
      - Voice effects
      - Notifications and reminders
 
-### **[todo-list](https://github.com/Myp3a/todo-list)**
-<img src="cm.png" align="right" width="128">
-
-    Todo-list site built with Django and Bootstrap
-     - Creation, marking as done and deleting tasks
-     - Multi-user authentication
-     - Ability to upload image to task information
-     - Due to timers
     
