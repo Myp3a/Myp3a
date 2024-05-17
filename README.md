@@ -46,6 +46,34 @@ class Myp3a:
      - People that like their own input scheme
      - Any tinkerers who like to disassembly things :P
 
+### **[Tasya](https://github.com/Myp3a/Tasya), [Tasya-core](https://github.com/Myp3a/Tasya-core)**
+<img src="t.png" align="right" width="128">
+
+    All-in-one messenger bot backed with LLM and RAG
+
+    Core:
+        LLM with RAG and various agents. Text and voice interface.
+        Features:
+            - Random chatting
+            - Weather report
+            - Internet search
+
+    Bot features:
+        Current ones:
+            - Music playback: files and links
+            - Game announcing, to gather people to play
+            - Man-of-the-day election
+            - Neural-powered talks
+            - Voice messages transcription
+
+        Historic:
+            - Timetable and homework
+            - USE (ЕГЭ) results checking
+            - Meme creation
+            - Image edits
+            - Voice effects
+            - Notifications and reminders
+ 
 ### **[Apple Music API](https://github.com/Myp3a/apple-music-api)**
 
     Wrapper for Apple Music API
@@ -83,25 +111,4 @@ class Myp3a:
     Tool to control MSI Raider GE78HX touchpad
      - Optimized driver
      - Custom shortcuts or keybindings
-
-### **[Tasya](https://github.com/Myp3a/Tasya)**
-<img src="t.png" align="right" width="128">
-
-    All-in-one messenger bot with various features
-
-    Current ones:
-     - Music playback: files and links
-     - Game announcing, to gather people to play
-     - Man-of-the-day election
-     - Neural-powered talks
-     - Voice messages transcription
-
-    Historic:
-     - Timetable and homework
-     - USE (ЕГЭ) results checking
-     - Meme creation
-     - Image edits
-     - Voice effects
-     - Notifications and reminders
-
-    
+   
